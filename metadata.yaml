@@ -35,6 +35,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1452
     wikipedia: http://en.wikipedia.org/wiki/Grant_Allen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41263#The-Mediterranean--Its-Storied-Cities-and-Venerable-Ruins
 gutenberg_issued: '2012-11-02'
 gutenberg_type: Text
 identifiers:
