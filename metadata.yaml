@@ -1,0 +1,51 @@
+_repo: The-Mediterranean--Its-Storied-Cities-and-Venerable-Ruins_41263
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41263-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Ball, E. A. R.
+    gutenberg_agent_id: '41080'
+    url: http://www.gutenberg.org/2009/agents/41080
+  - agent_name: Griffiths, Arthur
+    alias: Griffiths, Arthur George Frederick
+    birthdate: 1838
+    deathdate: 1908
+    gutenberg_agent_id: '3987'
+    url: http://www.gutenberg.org/2009/agents/3987
+  - agent_name: Bonney, T. G. (Thomas George)
+    alias: Bonney, Thomas George
+    birthdate: 1833
+    deathdate: 1923
+    gutenberg_agent_id: '37055'
+    url: http://www.gutenberg.org/2009/agents/37055
+  - agent_name: Traill, H. D. (Henry Duff)
+    alias: Traill, Henry Duff
+    birthdate: 1842
+    deathdate: 1900
+    gutenberg_agent_id: '2254'
+    url: http://www.gutenberg.org/2009/agents/2254
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Duff_Traill
+  - agent_name: Allen, Grant
+    alias: Allen, Charles Grant Blairfindie
+    birthdate: 1848
+    deathdate: 1899
+    gutenberg_agent_id: '1452'
+    url: http://www.gutenberg.org/2009/agents/1452
+    wikipedia: http://en.wikipedia.org/wiki/Grant_Allen
+description: ''
+gutenberg_issued: '2012-11-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41263'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Europe, Southern -- Description and travel'
+- !lcsh 'Mediterranean Region -- Description and travel'
+- !lcc 'D'
+title: 'The Mediterranean: Its Storied Cities and Venerable Ruins'
+url: http://www.gutenberg.org/ebooks/41263
